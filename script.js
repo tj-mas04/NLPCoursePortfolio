@@ -7,7 +7,7 @@ const lightTheme = {
     '--card': '#ffffff',
     '--text': '#0b0f19',
     '--muted': '#475569',
-    '--brand': '#2563eb',
+    '--brand': '#2563eb',   
     '--accent': '#7c3aed',
     '--link': '#16a34a'
 };
